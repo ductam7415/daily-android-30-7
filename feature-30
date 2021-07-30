@@ -1,0 +1,29 @@
+
+import kotlin.math.sqrt
+
+fun main(){
+    val Pi: Float = 3.14F
+    val Namsinh: Short = 2004
+    val Age: Byte = 17
+    val School: String = "THPT Kim Xuyên "
+
+    var Area : Int = 0
+    var Perimeter : Double
+    var Hypotenuse : Double
+
+    Area = 5*9
+    Perimeter = Pi*2*2.4
+    Hypotenuse = (2*2+2*2).toDouble()
+
+ // Bài 1 
+    println(Pi)
+    println(Namsinh)
+    println(Age)
+    println(School)
+
+ // Bài 2
+    println(Area)
+    println(Perimeter)
+    println(sqrt(Hypotenuse))
+
+}
