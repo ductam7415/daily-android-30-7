@@ -25,5 +25,4 @@ fun main(){
     println(Area)
     println(Perimeter)
     println(sqrt(Hypotenuse))
-
 }
